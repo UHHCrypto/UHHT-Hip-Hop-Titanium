@@ -14,6 +14,10 @@ More than 200,000 ERC-20-compatible tokens exist on Ethereum's main network. The
 
 ERC20 is an official protocol for proposing improvements to the Ethereum (ETH) network. ERC stands for Ethereum Request for Comment, and 20 is the proposal identifier. This is a common standard for creating tokens on the Ethereum blockchain. This token standard defines a set of rules that apply to all ERC20 tokens that allow them to interact seamlessly with one another. Wallets and exchanges use the standard to integrate various ERC20 tokens onto their platforms and facilitate exchanges between ERC20 tokens and other cryptocurrencies.
 
+### Benefits of UHHT tokens
+
+Holders of UHHT will have the opportunity to win a chance for VIP access to various Hip Hop events, including concerts, clubs, specials events, i.e. album listening parties, award shows, movie premieres, etc. Its also about free hip hip merchandise, exclusive pre-releases and DJ mixes.
+
 ### Source Code 
 
 ```
