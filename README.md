@@ -1,5 +1,8 @@
 # UHHT Hip Hop Titanium ERC20 TOKEN
 
+![UHHTHipHopTitanium](UHHTHipHopTitanium.jpg)
+_UHHT  Hip Hop Titanium holders will receive all the benefits included in the entire UHH Crypto Suite (UHH, UHHP, UHHB, UHHV)_
+
 The popular cryptocurrency and blockchain system Ethereum is based on the use of tokens, which can be bought, sold, or traded. Ethereum was launched in 2015, and since then it has become one of the driving forces behind the popularity of cryptocurrency. In the Ethereum system, tokens represent a diverse range of digital assets, such as vouchers, IOUs, or even real-world, tangible objects. Ethereum tokens are smart contracts that make use of the Ethereum blockchain. ERC-20 is similar, in some respects, to bitcoin, Litecoin, and any other cryptocurrency; ERC-20 tokens are blockchain-based assets that have value and can be sent and received. The primary difference is that instead of running on their own blockchain, ERC-20 tokens are issued on the Ethereum network.
 
 ### What is an ERC20 token?
