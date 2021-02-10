@@ -1,3 +1,5 @@
+© 2021 UHH Cryptocurrency
+
 # UHHT Hip Hop Titanium ERC20 TOKEN
 
 [Link](https://uhhcrypto.com/erc20-uhht)
